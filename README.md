@@ -25,8 +25,6 @@ transfer learning with ResNet-18 pretrained on ImageNet.
    1. Must download the dataset from: https://drive.google.com/file/d/1VppdV6VR4N2TZDjU0Z8oPChleZ1v7BPz/view?usp=sharing
    2. Download .zip folder and upload it to your Google Drive root before running the notebook
       
-Where the main training, inference, or demo code is located
-
 ## Where to Find the Code
 
 | Section | Cell | Description |
